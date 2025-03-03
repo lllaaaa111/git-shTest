@@ -9,7 +9,14 @@ hello git! hello atguigu!
 hello git! hello atguigu!
 hello git! hello atguigu!
 hello git! hello atguigu!
-hello git! hello atguigu!
+hello git! hello atgui HEAD
 hello git! hello atguigu!new  branch
 hello git! hello atguigu!hello git! hello atguigu!
 hello git! hello atguigu!
+
+hello git! hello atguigu!
+hello git! hello atguigu!
+hello git! hello atguigu!
+hello git! hello atguigu!command test 
+
+hot-fix
